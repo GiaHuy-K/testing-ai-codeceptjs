@@ -1,0 +1,21 @@
+{
+  "name": "testing_ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.1",
+    "dotenv": "^16.4.7",
+    "fuzzy-search": "^3.2.1",
+    "playwright": "^1.50.1"
+  },
+  "devDependencies": {
+    "@applitools/eyes-playwright": "^1.36.3"
+  },
+  "description": ""
+}
